@@ -1,4 +1,4 @@
-# Task 1: Name Matching System
+# Name Matching System
 
 A semantic name matching system that uses sentence embeddings and Pinecone vector database to find similar names based on user input. The system is particularly designed to handle phonetically similar names and variations in spelling.
 
@@ -328,4 +328,5 @@ For issues or questions:
 ---
 
 **Last Updated**: February 2026
+
 
